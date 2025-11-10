@@ -34,6 +34,8 @@ sets
 Enter your name: Michael
 Access Granted! Welcome Michael✅
 Login time: 11:45:22
+```
+---
 
 ## 🛠️ Technologies Used
 
@@ -44,11 +46,12 @@ Login time: 11:45:22
 
 ## 📂 Project Structure
 
+```bash
 login_system/
 │
 ├── login_system.py
 └── README.md
-
+```
 ---
 
 ## 🧠 Future Plans
